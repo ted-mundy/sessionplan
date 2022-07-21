@@ -7,7 +7,7 @@ import { Component, OnInit, Input } from '@angular/core';
 })
 export class AppComponent implements OnInit {
   title = 'sessionplan.';
-  public isMobile = false;
+  public isMobile = window.innerWidth <= 768;
   ngOnInit(): void {
     window.onresize = () => this.isMobile = window.innerWidth <= 768;
   }
