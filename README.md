@@ -18,3 +18,5 @@
 - - - recommended ( again, based off algorithim )
 - - - upload date  (old and new )
 - session planner, with ability to create and upload session plans of your own
+- premium subscriptions
+- - more plans avaliable (upgrade from 3 to 15 to 60)
